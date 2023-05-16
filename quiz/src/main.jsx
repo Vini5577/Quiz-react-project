@@ -4,7 +4,6 @@ import App from './App.jsx'
 import { QuizProvider } from './context/quiz.jsx'
 import './index.css'
 
-
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <QuizProvider>
